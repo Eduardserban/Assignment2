@@ -6,4 +6,4 @@
 
 [![Build Status](https://travis-ci.com/Eduardserban/Assignment2.svg?branch=master)](https://travis-ci.com/Eduardserban/Assignment2)
 
-[![Coverage Status](https://coveralls.io/repos/github/Eduardserban/Assignment2/badge.svg?branch=master)](https://coveralls.io/github/Eduardserban/Assignment2?branch=master)
+{<img src="https://coveralls.io/repos/github/Eduardserban/Assignment2/badge.svg?branch=master" alt="Coverage Status" />}[https://coveralls.io/github/Eduardserban/Assignment2?branch=master]
